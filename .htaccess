@@ -1,1 +1,3 @@
-DirectoryIndex simple-grid.html
+<Directory "/foo">
+    DirectoryIndex simple-grid.html
+</Directory>
